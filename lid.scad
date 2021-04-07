@@ -1,4 +1,4 @@
-// Centrifugal Puzzle Box - Base Model
+// Centrifugal Puzzle Box - Lid Model
 
 module cpbLid(radius, thickness, clearance){
     difference(){

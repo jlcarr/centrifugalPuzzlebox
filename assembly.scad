@@ -1,4 +1,4 @@
-// Cryptex Disc Model
+// Centrifugal Puzzle Box - Assembly Model
 
 
 // Parts
